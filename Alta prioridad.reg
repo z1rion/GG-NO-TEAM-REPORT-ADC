@@ -1,0 +1,2 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TUJUEGO\PerfOptions]
+"CpuPriorityClass"=dword:00000003
